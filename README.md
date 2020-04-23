@@ -1,2 +1,2 @@
 # Rest-API-com-Spring
-Aplicação Rest simples usando Java com Spring.
+Aplicação Java Rest simples usando Spring.
